@@ -1,4 +1,3 @@
-Block-Puzzle-Policy
 Privacy Policy
 OX Studio built the Block Puzzle app as a Free app. This SERVICE is provided by OX Studio at no cost and is intended for use as is.
 
